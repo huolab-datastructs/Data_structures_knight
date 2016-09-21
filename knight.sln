@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "knight", "knight.vcproj", "{00D7D67D-34D8-4A15-A9A8-9E4A5E4AC84A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00D7D67D-34D8-4A15-A9A8-9E4A5E4AC84A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{00D7D67D-34D8-4A15-A9A8-9E4A5E4AC84A}.Debug|Win32.Build.0 = Debug|Win32
+		{00D7D67D-34D8-4A15-A9A8-9E4A5E4AC84A}.Release|Win32.ActiveCfg = Release|Win32
+		{00D7D67D-34D8-4A15-A9A8-9E4A5E4AC84A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
